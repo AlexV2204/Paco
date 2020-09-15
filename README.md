@@ -39,4 +39,4 @@ Le Palifico est un tour de jeu particulier, qui se produit quand un joueur vient
 
 En résumé, le premier joueur annonce par exemple 2 cinq, et le suivant doit dire 3 cinq, 4 cinq ou plus ; ou dire Dudo. Seuls les cinq seront comptés, sans les Pacos.
 
-_Source: https://fr.wikipedia.org/wiki/Perudo
+*Source: https://fr.wikipedia.org/wiki/Perudo*
